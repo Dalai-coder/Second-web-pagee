@@ -1,0 +1,234 @@
+.flex{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+a{
+    text-decoration: none;
+    margin-left: 3%;
+    color: rgb(94, 70, 70);
+    margin: 10px;
+}
+.size{
+    width: 100%;
+    margin: 0;
+    
+}
+.flex1{
+    display: flex;
+    justify-content: center;
+}
+.flex0{
+    display: flex;
+    justify-content: space-between;
+    position: fixed;
+    background-color: white;
+    width: 100%;
+}
+.width{
+    width: 70x;
+    height: 50px;
+   
+}
+.flex2{
+    width: 30px;
+    height: 30px;
+}
+.flex3{
+
+    width: 30px;
+    height: 30px;
+}
+.flex4{
+    display: flex;
+    align-items: center;
+}
+img{
+    align-self: center;
+}
+.button{
+    width: 4%;
+    height: 8%;
+    background-color: black;
+    color: white;
+    border-radius: 10px;
+}
+.buttonflex{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.nikeflex{
+    display: flex;
+    margin-top: 50px;
+    
+}
+.nikeflex1{
+    display: flex;
+    margin-bottom: 50px;
+}
+.nikewidth{
+    width: 50%;
+    height: 50%;
+}
+.shop{
+    width: 5%;
+    height: 20px;
+    border-radius: 100px;
+    border: none;
+}
+.text-flex{
+    position: relative;
+    left: 30px;
+    bottom: 800px;
+    color: white;
+}
+.text-flex1{
+    left: 900px;
+    position: relative;
+    bottom: 918px;
+    color: white;
+}
+.text-flex2{
+    position: relative;
+    left: 30px;
+    bottom: 450px;
+    color: white;
+}
+.text-flex3{
+    left: 900px;
+    position: relative;
+    bottom: 580px;
+    color: white;
+}
+.flexbox{
+    position: relative;
+    left: 740px;
+    bottom: 500px;
+}
+.flexbox1{
+    color: white;
+    background-color: black;
+    border-radius: 10px;
+    border: none;
+}
+.flexbox2{
+    position: relative;
+    left: 800px;
+    bottom: 520px;
+}
+.flexi{
+    display: flex;
+    justify-content: space-between;
+}
+.nike5flex{
+    position: relative;
+    bottom: 470px;
+}
+.nike5flex1{
+    width: 100%;
+    height: 50%;
+}
+.fle{
+    position: relative;
+    
+}
+.sneakflex{
+    display: flex;
+    justify-content: space-evenly;
+}
+.flexsneak{
+    width: 75%;
+    display: flex;
+    justify-content: center;
+}
+.sneakflex2{
+    display: flex;
+    justify-content: center;
+}
+.sneakflex4{
+    display: flex;
+    justify-content: flex-end;
+}
+.Airflex{
+    position: relative;
+    bottom: 55px;
+    left: 95px;
+}
+.Airflex1{
+    position: relative;
+    bottom: 104px;
+    left: 580px;
+}
+.Airflex2{
+    position: relative;
+    bottom: 153px;
+    left: 1000px;
+}
+.Airflex3{
+    position: relative;
+    bottom: 202px;
+    left: 1440px;
+}
+.memflex{
+    position: relative;
+    bottom: 150px;
+}
+.nike678flex{
+    position: relative;
+    bottom: 130px;
+    display: flex;
+    
+}
+.nike6flex{
+    width: 75%;
+    display: flex;
+    justify-content: flex-end;
+}
+.nike7flex{
+    width: 75%;
+    display: flex;
+    justify-content: center;
+}
+.nike8flex{
+    width: 75%;
+    display: flex;
+    justify-content: flex-start;
+}
+.nike66flex{
+    width: 75%;
+}
+.text-flex4{
+    color: white;
+    position: relative;
+    bottom: 280px;
+    left: 155px;
+}
+.shop1{
+    width: 100%;
+    height: 25px;
+    border-radius: 100px;
+}
+.text-flex5{
+    color: white;
+    position: relative;
+    bottom: 400px;
+    left: 660px;
+}
+.text-flex6{
+    color: white;
+    position: relative;
+    bottom: 520px ;
+    left: 1165px;
+}
+.buttonflexx{
+    width: 100%;
+    height: 100px;
+    background-color:hsl(229, 38%, 40%);
+    color: white;
+}
+.buttonn{
+    position: relative;
+    bottom: 495px;
+}
+

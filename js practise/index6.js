@@ -1,0 +1,13 @@
+let bornyear= Number(prompt("enter your bornyear"));
+let bornmonth= Number(prompt("enter your bornmonth"));
+let bornday= Number(prompt("enter a bornday"));
+let total;
+total=bornyear*365+bornmonth*30+bornday;
+let yearnow=Number(prompt("What year is it today"));
+let monthnow=Number(prompt("What month is it now"));
+let daynow=Number(prompt("What day is it now"));
+let totall;
+totall=yearnow*365+monthnow*30+daynow;
+let totallived;
+totallived= totall - total;
+console.log("You have been lived total of "+ totallived+ " days");
